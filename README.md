@@ -1,4 +1,4 @@
-ACADEMIC INTEGRITY Operating System
+Operating System
 -----
 This is an operating system made using C and x86. It supports round-robin scheduling, a read-only file system, paging,  interrupts, system calls, multiple terminals, concurrent program execution, and the ability to execute given programs.
 
